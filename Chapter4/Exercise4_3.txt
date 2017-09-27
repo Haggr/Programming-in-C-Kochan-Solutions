@@ -1,0 +1,15 @@
+All are valid except for these below:
+
+0x10.5	- Decimals are not allowed in hexadecimal constants.
+
+0X0G1	- What is even G?
+
+98.7U	- Unsigned variable must be an integer
+
+17777s	- s is not allowed and does not mean anything there.
+
+0996 - Beginning 0 signifies octal constant value, 9 is not within acceptable range (0-7).
+
+1.2Fe-7 - F does not belong in expression.
+
+15,000	- Cannot use ,(comma) for numbers greater than 999.

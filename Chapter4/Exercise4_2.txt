@@ -1,0 +1,12 @@
+- Int is valid. Don't confuse it with "int". C is case-sensitive.
+- Calloc is valid.
+- floating is valid.
+- ReInitialize is valid.
+x char is NOT valid because it is a reserved keyword for a data type.
+- Xx is valid.
+- "_1312" is valid. Variables are allowed to start with a underscore and to contain numbers.
+- "_" is also valid as weird as it may look.
+x 6_05 is NOT valid because variables cannot start with a digit.
+- alpha_beta_routine is allowed but it is a silly name.
+- z is valid.
+x A$ is not valid because $ is not allowed in a variable name.
